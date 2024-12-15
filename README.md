@@ -81,7 +81,7 @@ The model's performance is evaluated on the test dataset, and predictions are de
 ---
 
 ## Medium Blog Post
-Learn more about the project [here](#) (add the link to your Medium post).
+Learn more about the project [here](https://medium.com/@mfaruq/classifying-cats-and-dogs-using-a-convolutional-neural-network-ae9da31620d2)
 
 ---
 
